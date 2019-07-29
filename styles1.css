@@ -1,12 +1,12 @@
 body {
-    background-color:	rgb(144,238,144);
+    background-color:rgb(144,238,144);
     border: 8px dashed #006400;
     margin: 5px;
     padding: 20px;
 }
 h1{
     font-weight: bold;
-    text-shadow: 2px 2px #ff0000;
+    text-shadow: 2px 2px #C0C0C0;
     text-transform: uppercase;
 }
 .abc {
