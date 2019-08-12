@@ -1,15 +1,21 @@
 body {
-    background-color: #90EE90;
     border: 8px dashed #006400;
     margin: 5px;
     padding: 20px;
 }
 h1{
     font-weight: bold;
-    text-shadow: 2px 2px #C0C0C0;
+    text-shadow: 3px 3px #A9A9A9;
     text-transform: uppercase;
 }
 .abc {
   font-style: italic;
   text-decoraton: underline;
+}
+#xyz {
+  font-weight: bold;
+  color: red;
+  font-size: 22px;
+  Text-align: center;
+  text-transform: uppercase;
 }
